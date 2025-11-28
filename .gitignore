@@ -1,0 +1,29 @@
+IntelliJ / Eclipse / VS Code project files
+
+*.iml
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+Compiled files
+
+Bo qua cac file class, target/bin
+
+*.class
+*.exe
+/bin/
+/target/
+
+Log and data files
+
+*.log
+*.sqlite
+*.db
+
+Database connector (JDBC Driver)
+
+Khong bao gom driver JDBC ca nhan len GitHub
+
+mysql-connector-java*.jar
