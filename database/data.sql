@@ -1,5 +1,5 @@
 -- =========================================================================
--- SCRIPT TAO DATABASE CHO UNG DUNG QUAN LY BAN HANG (POS)
+-- SCRIPT TAO DATABASE CHO UNG DUNG QUAN LY BAN HANG
 -- DATABASE: convenience_store
 -- =========================================================================
 
